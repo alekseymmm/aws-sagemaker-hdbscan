@@ -1,0 +1,4 @@
+{
+   "min_cluster_size":"50",
+   "core_dist_n_jobs":"2"
+}
