@@ -1,0 +1,11 @@
+Filepath,MarkerName
+HF_Prop_cal/201.csv,marker201
+HF_Prop_cal/202.csv,marker202
+HF_Prop_cal/203.csv,marker203
+HF_Prop_cal/205.csv,marker205
+HF_Prop_cal/206.csv,marker206
+HF_Prop_cal/209.csv,marker209
+HF_Prop_cal/210.csv,marker210
+HF_Prop_cal/212.csv,marker212
+HF_Prop_cal/213.csv,marker213
+HF_Prop_cal/214.csv,marker214
